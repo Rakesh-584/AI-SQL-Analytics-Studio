@@ -24,13 +24,13 @@ The application allows users to ask questions in natural language, automatically
 ---
 ---
 
-# 🏗️ Project Workflow
+## 🏗️ Project Workflow
 
 <p align="center">
   <img src="assets/workflow.png" alt="Project Workflow" width="100%">
 </p>
 
-This workflow illustrates how the application converts natural language into SQL queries using Google Gemini, executes them on PostgreSQL, visualizes the results, and allows exporting reports.
+This workflow illustrates how the application converts natural language into SQL using Google Gemini, executes the query on PostgreSQL, visualizes the results, and supports exporting reports in multiple formats.
 
 ---
 
