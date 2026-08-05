@@ -22,6 +22,17 @@ The application allows users to ask questions in natural language, automatically
 - 🎨 Modern Streamlit User Interface
 
 ---
+---
+
+# 🏗️ Project Workflow
+
+<p align="center">
+  <img src="assets/workflow.png" alt="Project Workflow" width="100%">
+</p>
+
+This workflow illustrates how the application converts natural language into SQL queries using Google Gemini, executes them on PostgreSQL, visualizes the results, and allows exporting reports.
+
+---
 
 ## 📸 Screenshots
 
